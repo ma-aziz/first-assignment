@@ -27,7 +27,7 @@
   font-weight: 600;
   color: white;
   padding: 20px 25px;
-  background: #3f0791;
+  background: #da5a26;
   border-radius: 5px;
   border: none;
   cursor: pointer;
@@ -39,7 +39,7 @@
   font-weight: 600;
   color: white;
   padding: 20px 25px;
-  background: #3f0791;
+  background: #da5a26;
   border-radius: 5px;
   border: 2px solid transparent;
   cursor: pointer;
@@ -124,15 +124,16 @@
   margin: 150px 230px 0 0;
 }
 
-.banner-title {
+.banner-tittle {
   font-weight: 700;
   font-size: 65px;
+  color: white;
 }
 
-.banner-desc {
+.banner-description {
   font-size: 18px;
   line-height: 30px;
-  color: #444343;
+  color: white;
   margin: 25px 0 35px 0;
 }
 
