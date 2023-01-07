@@ -29,7 +29,7 @@
   padding: 20px 25px;
   background: #da5a26;
   border-radius: 5px;
-  border: none;
+  border: 2px solid transparent;
   cursor: pointer;
   transition: 0.2s;
 }
@@ -48,12 +48,13 @@
 
 .btn-primary:hover {
   background: #ee4c0d;
+  color: #ffffff;
 }
 
 .btn-secondary:hover {
-  border: 2px solid #3f0791;
+  border: 2px solid;
   color: #ffffff;
-  background: transparent;
+  background: #ee4c0d;
 }
 
 /* header styles */
@@ -159,7 +160,7 @@ section {
   flex: 40%;
 }
 
-.section-title {
+.section-tittle {
   font-weight: 700;
   font-size: 40px;
   color: #151414;
