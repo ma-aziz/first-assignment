@@ -1,4 +1,4 @@
-/* google font link */
+/* Font link */
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
 
@@ -54,10 +54,11 @@
 .btn-secondary:hover {
   border: 2px solid;
   color: #ffffff;
-  background: #ee4c0d;
+  background: #da5a26;
 }
 
 /* header styles */
+
 #header {
   background-image: url(../images/banner/banner3.png);
   background-repeat: no-repeat;
@@ -66,6 +67,7 @@
 }
 
 /* nav styles */
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -209,6 +211,7 @@ section {
 }
 
 /* gradient section styles */
+
 #contact-us {
   background-image: linear-gradient(to right, #005cca, rgba(241, 91, 34, 0)),
     url(../images/study.jpg);
