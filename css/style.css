@@ -1,4 +1,4 @@
-/* google fonts link */
+/* google font link */
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
 
@@ -84,7 +84,7 @@
   margin-right: 10px;
 }
 
-.logo-title {
+.logo-tittle {
   font-size: 40px;
   font-weight: 900;
   font-family: "Lobster", cursive;
@@ -185,26 +185,26 @@ section {
   margin-right: 10px;
 }
 
-/* my plans section styles */
-#plans {
+/* my goal section styles */
+.goal {
   text-align: center;
 }
 
-.plans-container {
+.goals-container {
   margin-top: 50px;
   display: flex;
   justify-content: space-between;
   text-align: center;
 }
 
-.plan-tittle {
+.goal-tittle {
   font-size: 30px;
   font-weight: 700;
   color: #151414;
   margin: 20px 0 15px;
 }
 
-.plan-description {
+.goal-description {
   font-size: 25px;
   font-weight: 500;
   text-align: center;
@@ -280,7 +280,7 @@ section {
   border-radius: 5px;
 }
 
-.contact-us-title {
+.contact-us-tittle {
   color: #ffffff;
   margin-bottom: 25px;
 }
@@ -298,8 +298,8 @@ section {
   justify-content: space-between;
 }
 
-.footer-title,
-.footer-desc {
+.footer-tittle,
+.footer-description {
   color: rgb(221, 219, 219);
 }
 
