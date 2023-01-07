@@ -270,9 +270,9 @@ section {
   color: #f5446d;
 }
 
-/* contact section styles */
+/* gradient section styles */
 #contact-us {
-  background-image: linear-gradient(to right, #f15b22, rgba(241, 91, 34, 0)),
+  background-image: linear-gradient(to right, #005cca, rgba(241, 91, 34, 0)),
     url(../images/watch.png);
   background-repeat: no-repeat;
   background-size: cover;
