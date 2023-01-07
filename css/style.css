@@ -211,7 +211,7 @@ section {
 /* gradient section styles */
 #contact-us {
   background-image: linear-gradient(to right, #005cca, rgba(241, 91, 34, 0)),
-    url(../images/watch.png);
+    url(../images/study.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 60px;
