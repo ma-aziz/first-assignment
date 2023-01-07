@@ -164,6 +164,7 @@ section {
   font-weight: 700;
   font-size: 40px;
   color: #151414;
+  text-align: center;
 }
 
 .section-description {
@@ -186,10 +187,6 @@ section {
 }
 
 /* my goal section styles */
-.goal {
-  text-align: center;
-}
-
 .goals-container {
   margin-top: 50px;
   display: flex;
@@ -211,12 +208,12 @@ section {
   color: #737272;
 }
 
-/* blog section styles */
-#blog {
+/* avoid section styles */
+#avoid {
   text-align: center;
 }
 
-.blogs-container {
+.avoid-container {
   margin-top: 50px;
   display: flex;
   justify-content: center;
@@ -224,12 +221,12 @@ section {
   gap: 50px;
 }
 
-.blog-center-text {
+.avoid-center-text {
   font-family: "Lobster", cursive;
   font-size: 30px;
 }
 
-.blog-tittle {
+.avoid-tittle {
   margin: 20px 0 30px;
   font-family: "Lobster", cursive;
   font-size: 30px;
